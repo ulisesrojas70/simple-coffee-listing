@@ -1,0 +1,14 @@
+:root {
+	font-family: "DM Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 1rem;
+	font-style: normal;
+
+	color-scheme: light dark;
+	color: #FEF7EE;
+	background-color: #111315;
+}
+
+body {
+	margin: 0;
+}
